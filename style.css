@@ -1,0 +1,65 @@
+body{
+   font-family: monospace;
+}
+#para1{
+    word-spacing: 2px;
+    letter-spacing: 1px;
+}
+#self{
+    padding: 2px 0 0 5px;
+   
+    width: 7vw;
+    height: 7vh;
+    background-color: rgb(241, 244, 246);
+    border-radius: 5px;
+}
+#contact{
+    padding: 3px 0 0 7px;
+   
+    width: 8vw;
+    height: 7vh;
+    background-color: rgb(241, 244, 246);
+    border-radius: 5px;
+}
+#expert{
+    padding: 2px 0 0 8px;
+   
+    width: 12vw;
+    height: 7vh;
+    background-color: rgb(241, 244, 246);
+    border-radius: 5px;
+
+}
+
+.mm2{
+    word-spacing: 2px;
+    letter-spacing: 1px;
+
+}
+
+#img{
+    width: 25vw;
+    margin-left: 36px;
+}
+#s-sect{
+    height: 100px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#ralph{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+/* #self{
+   background-color: white 120px;
+} */
+
+#Certfi{
+    /* margin-top: rem; */
+    margin-left: 200px;
+ 
+    
+}
+#award
+{
+    margin-left: 200px;
+}
